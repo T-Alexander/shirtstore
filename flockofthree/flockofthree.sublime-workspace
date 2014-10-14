@@ -1,0 +1,791 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"erro",
+				"error_message"
+			],
+			[
+				"eregi",
+				"eregi_replace"
+			],
+			[
+				"ere",
+				"ereg_replace"
+			],
+			[
+				"l",
+				"list_view_html"
+			],
+			[
+				"pr",
+				"products"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"p",
+				"product_table"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"sub",
+				"submitButton"
+			],
+			[
+				"ph",
+				"photoHTML"
+			],
+			[
+				"fli",
+				"flickrOptions"
+			],
+			[
+				"s",
+				"statusHTML"
+			],
+			[
+				"edit",
+				"editButton"
+			],
+			[
+				"list",
+				"listItem"
+			],
+			[
+				"taskIn",
+				"taskInput"
+			],
+			[
+				"tas",
+				"taskString"
+			],
+			[
+				"compl",
+				"completedTasksHolder"
+			],
+			[
+				"incompleteT",
+				"incompleteTasksHolder"
+			],
+			[
+				"del",
+				"deleteButton"
+			],
+			[
+				"edi",
+				"editButton"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"cr",
+				"createElement"
+			],
+			[
+				"cre",
+				"createNewTaskElement"
+			],
+			[
+				"che",
+				"checkBoxEventHandler"
+			],
+			[
+				"inc",
+				"incompleteTasksHolder"
+			],
+			[
+				"bin",
+				"bindTaskEvents"
+			],
+			[
+				"ta",
+				"taskCompleted"
+			],
+			[
+				"dele",
+				"delete"
+			],
+			[
+				"delet",
+				"deleteTask"
+			],
+			[
+				"add",
+				"addTask"
+			],
+			[
+				"o",
+				"offsetY"
+			],
+			[
+				"newcolor",
+				"newColor"
+			],
+			[
+				"new",
+				"newcolor"
+			],
+			[
+				"co",
+				"confirmPassword"
+			],
+			[
+				"c",
+				"confirm_password"
+			],
+			[
+				"confi",
+				"confirmPasswordEvent"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"m",
+				"myArray"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"stat",
+				"statement2"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"my",
+				"myColor"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"webki",
+				"webkit-transform"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"de",
+				"decimal-leading-zero"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"a",
+				"aboutblurb"
+			],
+			[
+				"margin-",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 369,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/inc/config.php",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "inc/header.php",
+			"settings":
+			{
+				"buffer_size": 588,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "inc/footer.php",
+			"settings":
+			{
+				"buffer_size": 258,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 656,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 285.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/index.php",
+		"/var/www/html/flockofthree/img/aboutpic.jpg",
+		"/var/www/html/mikes shirts/inc/header.php",
+		"/var/www/html/about/index.php",
+		"/home/tom/.cache/.fr-flB6f8/shirts4mike/inc/config.php",
+		"/home/tom/.cache/.fr-6Uhpug/shirts4mike/index.php",
+		"/var/www/html/contact/index.php",
+		"/var/www/html/shirts4mike_local/receipt/index.php",
+		"/var/www/html/shirts4mike_local/inc/footer.php",
+		"/var/www/html/shirts4mike_local/inc/config.php",
+		"/var/www/html/shirts4mike_local/inc/header.php",
+		"/var/www/html/inc/header.php",
+		"/var/www/html/inc/footer.php",
+		"/var/www/html/shirts.php",
+		"/var/www/html/inc/products.php",
+		"/var/www/html/shirt.php",
+		"/var/www/html/contact.php",
+		"/var/www/html/form.php",
+		"/var/www/html/receipt/index.php",
+		"/var/www/html/inc/config.php",
+		"/var/www/html/inc/about.php",
+		"/var/www/html/css/oldstyle.css",
+		"/var/www/html/count.php",
+		"/home/tom/Downloads/PHPMailer-master/test/phpmailerTest.php",
+		"/var/www/html/inc/phpmailer/class.phpmailer.php",
+		"/home/tom/Downloads/PHPMailer-master/class.phpmailer.php",
+		"/var/www/html/functions.php",
+		"/home/tom/Downloads/island01-stage04-shirts4mike/shirts4mike/shirts.php",
+		"/var/www/html/contact-thanks.php",
+		"/var/www/html/contact-process.php",
+		"/var/www/html/css/style.css",
+		"/var/www/html/index.html",
+		"/var/www/html/test.php",
+		"/home/tom/app/images/warhawk1.jpg",
+		"/home/tom/app/bio.html",
+		"/home/tom/app/photos.html",
+		"/home/tom/app/media.html",
+		"/home/tom/app/index.html",
+		"/home/tom/app/styles/main.scss",
+		"/home/tom/Downloads/helix.php",
+		"/home/tom/Documents/joomlabackups/vm-ltr-site.css",
+		"/home/tom/Documents/joomlaproductionfiles/vm-ltr-site.css",
+		"/home/tom/Documents/joomlaproductionfiles/template.css",
+		"/home/tom/Documents/websites/flexboxpractice/index.html",
+		"/home/tom/Documents/websites/flexboxpractice/main.css",
+		"/home/tom/Documents/websites/flexboxpractice/main.sass",
+		"/home/tom/Downloads/main.css",
+		"/home/tom/Downloads/index.php",
+		"/home/tom/Documents/websites/layouts/index.html",
+		"/home/tom/Documents/websites/thedeadrabbits/index.html",
+		"/home/tom/Documents/websites/layouts/main.css",
+		"/home/tom/Documents/websites/bootstraptutorial/bootstrap-template.html",
+		"/home/tom/Documents/websites/bootstraptutorial/main.css",
+		"/home/tom/Documents/websites/layouts/main.scss",
+		"/home/tom/Documents/websites/thedeadrabbits/main.scss",
+		"/home/tom/Documents/websites/thedeadrabbits/app.js",
+		"/home/tom/Documents/websites/thedeadrabbits/main.css",
+		"/home/tom/Documents/websites/thedeadrabbits/normalize.css",
+		"/home/tom/Documents/websites/thedeadrabbits/music.html",
+		"/home/tom/Documents/websites/thedeadrabbits/contact.html",
+		"/home/tom/Documents/websites/thedeadrabbits/bio.html",
+		"/home/tom/Documents/websites/thedeadrabbits/gigs.html",
+		"/home/tom/Documents/websites/thedeadrabbits/gallery.html",
+		"/home/tom/Documents/treehouse/html portfolio/index.html",
+		"/home/tom/Documents/treehouse/html portfolio/css/main.css",
+		"/home/tom/Documents/treehouse/create-a-basic-table/index.html",
+		"/home/tom/Documents/treehouse/sass/4-creating-loops-with-for-and-each/start/main.scss",
+		"/home/tom/Documents/treehouse/sass/4-creating-loops-with-for-and-each/start/main.css",
+		"/home/tom/Documents/treehouse/sass/4-creating-loops-with-for-and-each/start/index.html",
+		"/home/tom/Documents/treehouse/sass/3-interpolation-and-if-else/start/main.scss",
+		"/home/tom/Documents/treehouse/sass/3-interpolation-and-if-else/start/main.css",
+		"/home/tom/Documents/treehouse/sass/2-working-with-media-queries/start/main.scss",
+		"/home/tom/Documents/treehouse/sass/2-working-with-media-queries/start/main.css",
+		"/home/tom/Documents/treehouse/sass/2-working-with-media-queries/start/index.html",
+		"/home/tom/Documents/treehouse/sass/4-sass-functions/start/main.css",
+		"/home/tom/Documents/treehouse/sass/4-sass-functions/start/index.html",
+		"/home/tom/Documents/treehouse/sass/4-sass-functions/start/main.scss",
+		"/home/tom/Documents/treehouse/sass/1-creating-a-color-pallet/start/index.html",
+		"/home/tom/Documents/treehouse/sass/1-creating-a-color-pallet/start/_variables.scss",
+		"/home/tom/Documents/treehouse/sass/1-creating-a-color-pallet/start/_globals.scss",
+		"/home/tom/Documents/treehouse/sass/1-creating-a-color-pallet/start/_mixins.scss",
+		"/home/tom/Documents/treehouse/sass/1-creating-a-color-pallet/start/main.css",
+		"/home/tom/Documents/treehouse/sass/1-creating-a-color-pallet/start/backberry.css",
+		"/home/tom/Documents/treehouse/sass/1-creating-a-color-pallet/start/pages/_about_us.scss",
+		"/home/tom/Documents/treehouse/sass/1-creating-a-color-pallet/start/backberry.scss",
+		"/home/tom/Documents/treehouse/sass/1-creating-a-color-pallet/start/main.scss",
+		"/home/tom/Documents/treehouse/sass/4-extending-selectors/start/main.css",
+		"/home/tom/Documents/treehouse/sass/4-extending-selectors/start/main.scss",
+		"/home/tom/Documents/treehouse/sass/4-extending-selectors.zip",
+		"/home/tom/Documents/treehouse/sass/2-introducing-mixins/start/main.css",
+		"/home/tom/Documents/treehouse/sass/2-introducing-mixins/start/main.scss",
+		"/home/tom/Documents/treehouse/sass/1-defining-variables/start/main.css",
+		"/home/tom/Documents/treehouse/sass/1-defining-variables/start/main.scss",
+		"/home/tom/Documents/treehouse/sass/1-defining-variables/start/index.html",
+		"/home/tom/Documents/treehouse/sass/3-nesting-selectors/3-nesting-selectors/start/main.css.map",
+		"/home/tom/Documents/treehouse/sass/3-nesting-selectors/3-nesting-selectors/start/main.css",
+		"/home/tom/Documents/treehouse/sass/3-nesting-selectors/3-nesting-selectors/start/main.scss",
+		"/home/tom/Documents/treehouse/sass/3-nesting-selectors/3-nesting-selectors/start/index.html",
+		"/home/tom/Documents/treehouse/sass/test.scss",
+		"/home/tom/Documents/treehouse/accessibility/Accessibility-WebApps-Graphs/Web/index.html",
+		"/home/tom/Documents/treehouse/accessibility/Accessibility-WebApps-Graphs/Web/css/style.css",
+		"/home/tom/Documents/treehouse/accessibility/Accessibility-WebApps-Tables/Web/index.html",
+		"/home/tom/Documents/treehouse/accessibility/accessibility forms/index.html",
+		"/home/tom/Documents/treehouse/accessibility/index.html",
+		"/home/tom/Documents/treehouse/accessibility/css/style.css",
+		"/home/tom/Documents/treehouse/accessibility/finished/index.html",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage4/video7/index.html",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage4/video7/js/app.js",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage4/video7/css/main.css",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage4/video3/index.html",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage4/video3/css/main.css",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage4/video3/js/flickr.js",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage3/video7/js/widget.js",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage3/video7/css/main.css",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage3/video7/data/rooms.json",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage3/video7/index.html",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage3/video7/data/employees.json",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage3/video3/index.html",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage3/video3/data/employees.json",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage3/video3/css/main.css",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage3/video3/js/widget.js",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage3/video4/index.html",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage3/video4/css/main.css",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage3/video6/css/main.css",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage3/video6/index.html",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage3/video1/css/main.css",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage3/video1/sidebar.html",
+		"/home/tom/Documents/treehouse/AJAX_Basics_Project_Files/stage3/video1/jquery-example.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"echo",
+			"	",
+			"name",
+			"Name",
+			"name",
+			".contact",
+			"http://dummyimage.com/1920x741/000/fff.jpg",
+			"<h4>News 1</h4>",
+			"auto",
+			"inline",
+			"block",
+			"inline",
+			"-block",
+			"block",
+			";\n",
+			">&nbsp;<",
+			"5px",
+			"#333",
+			"red",
+			"xhr",
+			"development",
+			"velopment",
+			"Front-end",
+			"Front-end developer",
+			"Front-end",
+			"person",
+			"relative",
+			"100px",
+			"<!",
+			">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								365,
+								365
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/var/www/html/inc/config.php",
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "inc/header.php",
+					"settings":
+					{
+						"buffer_size": 588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								588,
+								588
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "inc/footer.php",
+					"settings":
+					{
+						"buffer_size": 258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/main.css",
+					"settings":
+					{
+						"buffer_size": 656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								638,
+								638
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 408.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 134.0,
+	"status_bar_visible": true
+}

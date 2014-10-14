@@ -1,0 +1,49 @@
+/**************************************************
+HEADER STYLES
+***************************************************/
+
+#logo {
+	float: left;
+}
+
+.nav {
+	text-transform: uppercase;
+	list-style: none;
+	float: right;
+}
+
+.nav li {
+	display: inline-block;
+}
+
+.nav a {
+	text-decoration: none;
+}
+
+
+
+
+/***************************************************
+FOOTER STYLES
+***************************************************/
+
+#instagram_icon {
+	float: right;
+}
+
+
+
+
+
+/***************************************************
+HOMEPAGE STYLES
+***************************************************/
+
+.slider_wrapper {
+	height: 500px;
+}
+
+.content {
+	clear: both;
+	margin: auto;
+}
