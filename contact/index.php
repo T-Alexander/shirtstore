@@ -51,7 +51,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		$mail->msgHTML($email_body);
 
 		if($mail->Send()) {
-			header("Location: " . BASE_URL . " contact.php?status=thanks");
+			header("Location: " . BASE_URL . "contact/thanks/");
 			exit;
 		} else {
 			$error_message[] = "There was a problem sending the email: " . $mail->ErrorInfo;
